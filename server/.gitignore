@@ -1,0 +1,45 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# Database files
+*.sqlite
+*.sqlite3
+*.db
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.swp
+
+# Build files
+dist/
+build/
+
+# Cache
+.cache/
+coverage/
+tmp/
+temp/
+*.tmp
+*.temp
+
+# Optional lock files (if only tracking one)
+yarn.lock
+package-lock.json
+
+# Public uploads or temporary files (if any)
+public/uploads/
