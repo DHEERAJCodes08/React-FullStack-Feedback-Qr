@@ -89,8 +89,7 @@ Add screenshots here to showcase:
 
 ## 🤝 Get Involved
 
-We’re excited to build BrandBridge with the input and collaboration of like-minded developers and contributors! If you have ideas, find issues, or want to help shape the future of customer feedback, join us in creating a platform that makes a difference.
-
+We’re excited to build BrandBridge with the input and collaboration of like-minded developers and contributors! If you have ideas, find issues, or want to help shape the future of customer feedback, join us in creating a platform that makes a difference. mail:dheerajprasad72@gmail.com or call on +919689321261
 ---
 
 ## 🌐 License
